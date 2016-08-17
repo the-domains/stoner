@@ -1,0 +1,14 @@
+layout_spectrum: 0.20356852537952363
+typography_spectrum: 0.520197780802846
+color:
+  brandStrength: 0.034425701946020126
+  lightness: 0.8047375315800309
+  saturation: 0.3504425138235092
+  rhythmicContrast: 0.5346865665633231
+  brandColors:
+    - '#2F4341'
+    - '#060709'
+    - '#CCECF9'
+    - '#8BC8E4'
+    - '#649BB9'
+name: Stoner
